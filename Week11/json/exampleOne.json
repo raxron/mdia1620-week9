@@ -1,0 +1,7 @@
+{
+    "students" : [
+        {"firstName":"John","lastName":"Doe","grade":60},
+        {"firstName":"Tim","lastName":"Bern","grade":85},
+        {"firstName":"Ed","lastName":"Joe","grade":75}
+    ]
+}

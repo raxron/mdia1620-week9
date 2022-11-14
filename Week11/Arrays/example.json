@@ -1,0 +1,16 @@
+{
+    "employees" : [
+        {"firstName":"George","lastName":"Rod"},
+        {"firstName":"Wilson","lastName":"Quan"},
+        {"firstName":"Tim","lastName":"Bern"}
+    ]
+
+}
+
+{
+    "pets" :[
+        {"name":"Tim","type":"dog"},
+        {"name":"Sally","type":"cat"},
+        {"name":"Fred","type":"bird"},
+    ]
+}
